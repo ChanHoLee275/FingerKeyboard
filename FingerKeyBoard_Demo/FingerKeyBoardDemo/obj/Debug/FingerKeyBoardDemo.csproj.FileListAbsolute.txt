@@ -1,0 +1,10 @@
+C:\Users\이찬호\source\repos\FingerKeyBoardDemo\FingerKeyBoardDemo\bin\Debug\FingerKeyBoardDemo.exe.config
+C:\Users\이찬호\source\repos\FingerKeyBoardDemo\FingerKeyBoardDemo\bin\Debug\FingerKeyBoardDemo.exe
+C:\Users\이찬호\source\repos\FingerKeyBoardDemo\FingerKeyBoardDemo\bin\Debug\FingerKeyBoardDemo.pdb
+C:\Users\이찬호\source\repos\FingerKeyBoardDemo\FingerKeyBoardDemo\obj\Debug\FingerKeyBoardDemo.csprojAssemblyReference.cache
+C:\Users\이찬호\source\repos\FingerKeyBoardDemo\FingerKeyBoardDemo\obj\Debug\FingerKeyBoardDemo.Form1.resources
+C:\Users\이찬호\source\repos\FingerKeyBoardDemo\FingerKeyBoardDemo\obj\Debug\FingerKeyBoardDemo.Properties.Resources.resources
+C:\Users\이찬호\source\repos\FingerKeyBoardDemo\FingerKeyBoardDemo\obj\Debug\FingerKeyBoardDemo.csproj.GenerateResource.cache
+C:\Users\이찬호\source\repos\FingerKeyBoardDemo\FingerKeyBoardDemo\obj\Debug\FingerKeyBoardDemo.csproj.CoreCompileInputs.cache
+C:\Users\이찬호\source\repos\FingerKeyBoardDemo\FingerKeyBoardDemo\obj\Debug\FingerKeyBoardDemo.exe
+C:\Users\이찬호\source\repos\FingerKeyBoardDemo\FingerKeyBoardDemo\obj\Debug\FingerKeyBoardDemo.pdb
